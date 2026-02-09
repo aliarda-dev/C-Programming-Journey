@@ -10,6 +10,7 @@ Core Objective & Philosophy: Designed as a "Digital Study Notebook", this archiv
 
 
 Structure & Content / İçerik ve Yapı
+
 Vol I: Fundamentals (Temeller)
 Focus: Syntax, Data Types & Basic I/O
 
