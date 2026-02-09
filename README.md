@@ -9,9 +9,28 @@ This repository serves as a personal "C Encyclopedia", representing the first te
 Core Objective & Philosophy: Designed as a "Digital Study Notebook", this archive focuses on mastering problem-solving logic and algorithmic thinking rather than just code execution. Each volume is built with a modular structure, prioritizing the understanding of core principles over simple output generation.
 
 
-Volume (Cilt),Focus / Odak,Key Highlights / Öne Çıkanlar
-Vol I,Fundamentals,"Syntax, Data Types, Basic I/O & Escape Characters"
-Vol II,Logic & Mastery,"Arithmetic, Logical Gates & Bitwise Operations"
-Vol III,Decisions,Advanced If-Else Structures & Switch-Case Logic
-Vol IV,Loops & Math,"Mathematical Problem Solving, Fibonacci & Factorials"
-Vol V,Patterns & Journey,"Geometric Designs (Pyramids, Diamonds), Pascal Triangle & Future Challenges"
+🔍 Structure & Content / İçerik ve Yapı
+ Vol I: Fundamentals (Temeller)
+Focus: Syntax, Data Types & Basic I/O
+
+Highlights: Escape characters, variable assignments and first console outputs.
+
+ Vol II: Logic & Mastery (Mantık ve Uzmanlık)
+Focus: Arithmetic & Logical Operations
+
+Highlights: Logical gates and Bitwise Operations, essential for Electrical-Electronics Engineering.
+
+ Vol III: Decisions (Karar Yapıları)
+Focus: Control Flow & Decision Making
+
+Highlights: Advanced if-else structures, nested conditions and switch-case logic.
+
+ Vol IV: Loops & Math (Döngüler ve Matematik)
+Focus: Iterative Logic & Mathematical Challenges
+
+Highlights: Fibonacci series, factorials and mathematical problem-solving algorithms.
+
+ Vol V: Patterns & Journey (Şekiller ve Serüven)
+Focus: Geometric Designs & Advanced Algorithms
+
+Highlights: Geometric patterns (pyramids, diamonds), the "Hardcore" Pascal Triangle and future engineering challenges.
