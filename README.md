@@ -9,28 +9,33 @@ This repository serves as a personal "C Encyclopedia", representing the first te
 Core Objective & Philosophy: Designed as a "Digital Study Notebook", this archive focuses on mastering problem-solving logic and algorithmic thinking rather than just code execution. Each volume is built with a modular structure, prioritizing the understanding of core principles over simple output generation.
 
 
-🔍 Structure & Content / İçerik ve Yapı
- Vol I: Fundamentals (Temeller)
+Structure & Content / İçerik ve Yapı
+Vol I: Fundamentals (Temeller)
 Focus: Syntax, Data Types & Basic I/O
 
 Highlights: Escape characters, variable assignments and first console outputs.
 
- Vol II: Logic & Mastery (Mantık ve Uzmanlık)
+Vol II: Logic & Mastery (Mantık ve Uzmanlık)
 Focus: Arithmetic & Logical Operations
 
 Highlights: Logical gates and Bitwise Operations, essential for Electrical-Electronics Engineering.
 
- Vol III: Decisions (Karar Yapıları)
+Vol III: Decisions (Karar Yapıları)
 Focus: Control Flow & Decision Making
 
 Highlights: Advanced if-else structures, nested conditions and switch-case logic.
 
- Vol IV: Loops & Math (Döngüler ve Matematik)
+Vol IV: Loops & Math (Döngüler ve Matematik)
 Focus: Iterative Logic & Mathematical Challenges
 
 Highlights: Fibonacci series, factorials and mathematical problem-solving algorithms.
 
- Vol V: Patterns & Journey (Şekiller ve Serüven)
+Vol V: Patterns & Journey (Şekiller ve Serüven)
 Focus: Geometric Designs & Advanced Algorithms
 
 Highlights: Geometric patterns (pyramids, diamonds), the "Hardcore" Pascal Triangle and future engineering challenges.
+
+Vol VI: Functions (Fonksiyonlar)
+Focus: Functionality of Functions
+
+Highlights: Modular programming and functions in C. 
