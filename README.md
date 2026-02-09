@@ -9,6 +9,7 @@ This repository serves as a personal "C Encyclopedia", representing the first te
 Core Objective & Philosophy: Designed as a "Digital Study Notebook", this archive focuses on mastering problem-solving logic and algorithmic thinking rather than just code execution. Each volume is built with a modular structure, prioritizing the understanding of core principles over simple output generation.
 
 
+Volume (Cilt),Focus / Odak,Key Highlights / Öne Çıkanlar
 Vol I,Fundamentals,"Syntax, Data Types, Basic I/O & Escape Characters"
 Vol II,Logic & Mastery,"Arithmetic, Logical Gates & Bitwise Operations"
 Vol III,Decisions,Advanced If-Else Structures & Switch-Case Logic
