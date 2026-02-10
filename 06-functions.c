@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Functions
+//Functions 
 
 
 
@@ -624,4 +624,5 @@ int main(){
     putch(65);
 
     return 0;
+
 }
