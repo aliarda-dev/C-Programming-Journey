@@ -7,6 +7,7 @@
 //Arrays(Diziler)
 
 
+
 int main(){
 
     int notes[]={15,34,65,74,7,67};
