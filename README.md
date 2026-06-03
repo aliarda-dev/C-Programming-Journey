@@ -40,3 +40,8 @@ Vol VI: Functions (Fonksiyonlar)
 Focus: Functionality of Functions
 
 Highlights: Modular programming and functions in C. 
+
+Vol VII: Arrays & Applications (Diziler ve Uygulamaları)
+Focus: Data Aggregation & Multi-Dimensional Logic
+
+Highlights: Implementing single and multidimensional arrays across hardware-friendly scenarios, including smart sensor logging, ASCII-level character frequency mapping, parallel data synchronization, and dynamic matrix-based grid simulations.
