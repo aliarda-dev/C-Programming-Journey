@@ -45,3 +45,8 @@ Vol VII: Arrays & Applications (Diziler ve Uygulamaları)
 Focus: Data Aggregation & Multi-Dimensional Logic
 
 Highlights: Implementing single and multidimensional arrays across hardware-friendly scenarios, including smart sensor logging, ASCII-level character frequency mapping, parallel data synchronization, and dynamic matrix-based grid simulations.
+
+Vol VIII: Strings
+Focus: Core string manipulation in C through pointer arithmetic and safe memory management.
+
+Highlights: Demonstrates standard <string.h> functions (strlen, strcat, strcpy, strcmp), replaces risky gets() with secure fgets(), and implements custom algorithms for text processing (case conversion, character counting, and string reversal) using ASCII mechanics.
