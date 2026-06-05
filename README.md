@@ -50,3 +50,9 @@ Vol VIII: Strings
 Focus: Core string manipulation in C through pointer arithmetic and safe memory management.
 
 Highlights: Demonstrates standard <string.h> functions (strlen, strcat, strcpy, strcmp), replaces risky gets() with secure fgets(), and implements custom algorithms for text processing (case conversion, character counting, and string reversal) using ASCII mechanics.
+
+Vol IX: Pointers & Preprocessor
+Focus: C Preprocessor Directives and Pointer Architecture
+
+Highlights: Optimizing hardware memory footprint using preprocessor macros and masterfully manipulating direct memory addresses, functions, and arrays via pointer arithmetic in C.
+
