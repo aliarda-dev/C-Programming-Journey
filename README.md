@@ -56,3 +56,8 @@ Focus: C Preprocessor Directives and Pointer Architecture
 
 Highlights: Optimizing hardware memory footprint using preprocessor macros and masterfully manipulating direct memory addresses, functions, and arrays via pointer arithmetic in C.
 
+Vol X: Structs & Enum & Typedef
+Focus: Custom Data Structures, Memory Mapping, and Type Aliasing (Structures, Pointers, Enumerations, and Typedefs in C)
+
+Highlights: Advanced encapsulation of mixed-type real-world data entities using user-defined structures (struct), pointer-to-struct architectures, custom type abstractions (typedef), and automated enumerations (enum) in C.
+
