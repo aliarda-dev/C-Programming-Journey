@@ -15,7 +15,6 @@ int main(void){
     printf("%d",*x);
 
     free(x);
-
 } 
 
 //Basit Ogrenci Notu Girme Program
