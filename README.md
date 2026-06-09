@@ -61,3 +61,7 @@ Focus: Custom Data Structures, Memory Mapping, and Type Aliasing (Structures, Po
 
 Highlights: Advanced encapsulation of mixed-type real-world data entities using user-defined structures (struct), pointer-to-struct architectures, custom type abstractions (typedef), and automated enumerations (enum) in C.
 
+Vol XI: Dynamic Memory Allocation |
+Focus: Dynamic Memory Allocation (DMA) and Heap Management
+
+Highlights: Implementing runtime memory allocation and array resizing dynamically via malloc, calloc, and realloc while ensuring optimal memory clean-up using free in C.
